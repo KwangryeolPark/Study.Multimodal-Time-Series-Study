@@ -1,11 +1,11 @@
 {
-  "editor:toggle-highlight": [
+  "editor:open-search-replace": [],
+  "pdf-plus:toggle-auto-paste": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "H"
     }
-  ],
-  "editor:open-search-replace": []
+  ]
 }
