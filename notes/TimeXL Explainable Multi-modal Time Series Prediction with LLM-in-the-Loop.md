@@ -38,3 +38,8 @@
 > 
 > 높은 전문성 있는. 매우 강력하고 우수한
 
+> [!PDF|노트] [[TimeXL Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop.pdf#page=1&selection=0,0,1,31&color=노트|TimeXL Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop, p.1]]
+> > TimeXL: Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop
+> 
+> 이 논문은 뛰어난 성능에도 불구하고 ICML 2025에서 Reject되었다. 주된 이유는, 각각의 모델들의 성능 기여도에 대한 분석이 없다는 것. 리뷰어들은 누가 진짜 성능에 기여했는지를 궁금해 했으며, 단순히 Encoder의 성능이 강력해서 성능이 좋아진 것 아니냐는 의문을 남겼다.
+> 또한 LLM 세 개를 사용했음에도, regression 성능 (RMSE)이 `4.198` -> `4.161`로 겨우 `0.9%p`정도의 성능 향상만이 있었다.
