@@ -76,3 +76,8 @@
 > 1) formulate the customized variable dependency as C and (2) optimize the model using the supervision of target variables. An example (target-A-covariate-B) of TimeAttention is illustrated on the right of Figure 2. 
 
 
+> [!PDF|노트] [[TIMER-XL LONG-CONTEXT TRANSFORMERS FOR UNIFIED TIME SERIES FORECASTING.pdf#page=1&selection=2,0,22,10&color=노트|TIMER-XL LONG-CONTEXT TRANSFORMERS FOR UNIFIED TIME SERIES FORECASTING, p.1]]
+> > TIMER-XL: LONG-CONTEXT TRANSFORMERS FOR UNIFIED TIME SERIES FORECASTING
+> 
+> #다읽음
+> Time Attention 부분이 독창적이었으나 크게 다가오는 것은 없음.
