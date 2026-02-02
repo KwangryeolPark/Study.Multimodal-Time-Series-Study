@@ -18,4 +18,7 @@
 > [!PDF|노트] [[How Can Time Series Analysis Benefit From Multiple Modalities A Survey and Outlook.pdf#page=8&selection=30,4,32,19&color=노트|How Can Time Series Analysis Benefit From Multiple Modalities A Survey and Outlook, p.8]]
 > > Local retrieval, also known as feature understanding, focuses on detecting whether the feature type specified in the query exists in the time series.
 > 
-> 일종의 Segmentation with text query. Text를 입력으로 주면, 그에 맞는 형태를 time series에서 찾아내는 것. 예를 들어 "상승장은 어디지?"라고 하면 그에 맞는 부분을 알려줌.
+> 일종의 Segmentation with text query. Text를 입력으로 주면, 그에 맞는 형태를 time series에서 찾아내는 것. 예를 들어 "상승장은 어디지?"라고 하면 그에 맞는 부분을 알려줌.> [!PDF|research gap] [[How Can Time Series Analysis Benefit From Multiple Modalities A Survey and Outlook.pdf#page=9&selection=193,0,208,43&color=research gap|How Can Time Series Analysis Benefit From Multiple Modalities A Survey and Outlook, p.9]]
+> > As detailed in Section 3, we can clearly observe the heterogeneity of modality combinations: (1) For general time series analysis, the usual combination is Time+Text. (2) For different domains, the combinations vary. For example, in the medical domain, Time+Tabular is common, while in other domains it is rare. (3) Within a specific domain, different datasets usually have different modality combinations. For instance, in the medical domain. the MIMIC dataset [ 85 ] includes Time+Text+Image+Tabular, while PTXL only includes Time+Text [177]. (4) Finally, at the sample level within a dataset, there are missing modality issues [46, 86].
+> 
+> 시계열 multimodal에는 다른 도메인과 다르게 여러 modality가 존재.
