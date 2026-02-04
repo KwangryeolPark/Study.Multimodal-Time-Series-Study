@@ -19,7 +19,8 @@
 > > $TP$
 > 
 > Q: 여기서 TP는 $T\times P$를 의미하는 건가.? #의문점
-> A: #답변없음
+> A: 
+> 
 > Thinking: $i$가 sequence index가 아니라 patch index이고, $P$가 patch length라면?
 
 > [!PDF|답변] [[TIMER-XL LONG-CONTEXT TRANSFORMERS FOR UNIFIED TIME SERIES FORECASTING.pdf#page=4&selection=96,0,159,3|TIMER-XL LONG-CONTEXT TRANSFORMERS FOR UNIFIED TIME SERIES FORECASTING, p.4]]
@@ -81,3 +82,8 @@
 > 
 > #다읽음
 > Time Attention 부분이 독창적이었으나 크게 다가오는 것은 없음.
+
+
+
+#timeseries
+#multimodal

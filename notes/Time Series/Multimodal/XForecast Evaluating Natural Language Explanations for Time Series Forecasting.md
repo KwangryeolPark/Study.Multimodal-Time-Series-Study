@@ -2,3 +2,8 @@
 > > saliency maps
 > 
 > 돌출 맵은 입력 데이터의 특정 부분의 중요도를 시각적으로 나타내는 기법.
+
+
+
+#timeseries
+#multimodal
