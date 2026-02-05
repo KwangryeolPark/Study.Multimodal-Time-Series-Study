@@ -1,4 +1,4 @@
-#timeseries #representation-learning #contrastive-learning #model-agnostic #다읽음 
+#timeseries #representation-learning #contrastive-learning #model-agnostic 
 
 > [!PDF|노트] [[(AutoTCL) PARAMETRIC AUGMENTATION FOR TIME SERIES CONTRASTIVE LEARNING.pdf#page=7&selection=201,0,204,86&color=노트|(AutoTCL) PARAMETRIC AUGMENTATION FOR TIME SERIES CONTRASTIVE LEARNING, p.7]]
 > > We follow CoST (Woo et al., 2022) network architecture. A multi-layer dilated CNN module is used for the backbone and we remove the seasonal feature disentangler module

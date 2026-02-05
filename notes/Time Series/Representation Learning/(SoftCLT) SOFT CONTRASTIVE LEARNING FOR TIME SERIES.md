@@ -22,3 +22,6 @@
 > 이 방법론은 Hard Negative 방식을 해소하는데는 효과적이었지만, 여전히 Hard Positive를 다루고 있다.
 
 #timeseries #contrastive-learning #model-agnostic #representation-learning 
+
+# 수식 3과 6의 차이
+언듯보면 수식 3과 6의 첫 항이 동일한 것으로 생각될 수는 있으나, 분모 계산이 다르다.

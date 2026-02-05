@@ -31,7 +31,7 @@
 > 
 
 > [!PDF|노트] [[How Can Time Series Analysis Benefit From Multiple Modalities A Survey and Outlook.pdf#page=1&selection=0,0,1,20&color=노트|How Can Time Series Analysis Benefit From Multiple Modalities A Survey and Outlook, p.1]]
-> > How Can Time Series Analysis Benefit From Multiple Modalities? A Survey and Outlook #다읽음 
+> > How Can Time Series Analysis Benefit From Multiple Modalities? A Survey and Outlook 
 > 
 > ### Text의 역할
 > 텍스트는 시계열 데이터에 결려된 문맥 정보를 제공하여 모델의 추론 능력을 강화한다. 텍스트는 크게 두 가지 유형으로 분류된다.
