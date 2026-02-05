@@ -81,7 +81,7 @@
 <details>
 <summary><b>(SoftCLT) SOFT CONTRASTIVE LEARNING FOR TIME SERIES</b></summary>
 
-**Links:** [PDF](papers/Time%20Series/Representation%20Learning/(SoftCLT)%20SOFT%20CONTRASTIVE%20LEARNING%20FOR%20TIME%20SERIES.pdf) | [Notes](notes/Time%20Series/Representation%20Learning/(SoftCLT)%20SOFT%20CONTRASTIVE%20LEARNING%20FOR%20TIME%20Series.md)
+**Links:** [PDF](papers/Time%20Series/Representation%20Learning/(SoftCLT)%20SOFT%20CONTRASTIVE%20LEARNING%20FOR%20TIME%20SERIES.pdf) | [Notes](notes/Time%20Series/Representation%20Learning/(SoftCLT)%20SOFT%20CONTRASTIVE%20LEARNING%20FOR%20TIME%20SERIES.md)
 
 **설명:** Contrastive Learning의 Hard Negative 방식을 개선한 논문. Negative pair를 무조건 멀게 하는 대신 적절한 거리로 분리하는 Soft Contrastive Learning을 제안한다. Instance-wise loss는 DTW(Dynamic Time Warping) 거리의 min-max normalized 값을, Temporal loss는 time index를 사용한다. Hard Negative 문제는 해결했으나 여전히 Hard Positive(증강된 다른 view를 동일하게 취급하는 문제)는 남아있다.
 
